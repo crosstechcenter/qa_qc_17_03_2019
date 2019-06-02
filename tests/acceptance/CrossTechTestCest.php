@@ -5,7 +5,6 @@ class CrossTechCest
     public function _before(AcceptanceTester $I)
     {
     }
-
     // tests
     public function tryToTest(Step\Acceptance\Admin $I, $scenario)
     {
